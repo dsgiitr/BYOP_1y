@@ -5,7 +5,7 @@
 <h1 align="center">Bring Your Own Problem (BYOP) Project</h1>
 
 <p align="center">
-  <strong>[Briefly describe the problem you are trying to solve.]</strong>
+  <strong>Through this project, we aim to provide our group members with hands-on experience in project development by guiding them through the entire project lifecycle, from problem identification to solution deployment. By doing so, we hope to equip our group members with the necessary skills and knowledge to develop and execute successful data science projects in the future.</strong>
 </p>
 
 <p align="center">

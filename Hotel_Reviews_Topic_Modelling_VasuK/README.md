@@ -11,6 +11,6 @@ I have finished the code for LDA model, trained the model, tuned the model, calc
 How to interpret the LDA model ?
 The given image shows the output of an LDA model which shows the AVERAGE TOPIC COHERENCE along with the tokens(words) with their proportions in the document we created in LDA.
 
-![Output2]()
+![Output2](https://github.com/VasuK111/BYOP_1y/blob/9222aa0fe27f7cbe0df6daa8eac093e789198815/Hotel_Reviews_Topic_Modelling_VasuK/229209181-debdedfa-021e-4b3d-8591-b9c14c2fc3b3.png)
 
-
+Happy Topic Modelling :). I hope now analysing the reviews become much easier for you compared to what it was before.
